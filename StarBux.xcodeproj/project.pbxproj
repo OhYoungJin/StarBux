@@ -324,6 +324,7 @@
 				GCC_PREFIX_HEADER = "StarBux/StarBux-Prefix.pch";
 				INFOPLIST_FILE = "StarBux/StarBux-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -335,6 +336,7 @@
 				GCC_PREFIX_HEADER = "StarBux/StarBux-Prefix.pch";
 				INFOPLIST_FILE = "StarBux/StarBux-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
